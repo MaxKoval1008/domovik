@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 
-API_TOKEN = '5157663619:AAF96aW16hNegv6642lfr31PZqyi3V6CTO0'
+API_TOKEN = 'Insert ur telegram bot id.'
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
